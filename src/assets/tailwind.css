@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+/* body {
+    @apply bg-blue-800 flex justify-center content-center h-screen items-center;
+} */
+
+@tailwind utilities;

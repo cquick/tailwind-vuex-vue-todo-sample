@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
 import store from './store'
+import './assets/tailwind.css'
+import '@mdi/font/css/materialdesignicons.css';
+import 'animate.css/animate.css';
 
 Vue.config.productionTip = false
 
